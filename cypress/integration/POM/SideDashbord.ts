@@ -1,8 +1,6 @@
-/// <reference types='cypress'/>
+export class SideDashBord {
 
-class SideDashbord {
-
-    openCustomerSubMenu(option) {
+    openCustomerSubMenu(option:string) {
         cy.get('.treeview:nth-child(4)').click();
         cy.get('.menu-open>ul>li').each(($element, index, $list) => {
             if ($element.text().includes(option)) {
@@ -11,4 +9,3 @@ class SideDashbord {
         })
     }
 }
-export default SideDashbord;

@@ -1,0 +1,13 @@
+{
+    "Email": "test1@test.test",
+    "Password": "ThisIsHardPassword",
+    "FirstName": "John",
+    "LastName": "Johnson",
+    "Gender":"M",
+    "DateOfBirth":"1/13/1980",
+    "Company": "Evil Inc.",
+    "IsTaxExempt": true,
+    "NewsletterOption": ["Test store 2"],
+    "Vendor": "Vendor 1",
+    "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id diam vel mauris maximus elementum. Praesent imperdiet interdum lorem, ut commodo ligula mollis ac. Curabitur dictum nisi sit amet elit placerat fringilla eget non nibh. Etiam ornare aliquam dui vitae placerat. Aenean lacus neque, efficitur a ex quis, ultrices vestibulum tortor. Mauris vulputate dapibus tristique. Nullam semper, leo porttitor condimentum sagittis, magna tellus mollis nulla, eu dapibus quam lorem id nisl. Duis mollis et dui non mollis. Phasellus magna sapien, viverra vel mollis eget, commodo a mauris. Duis rutrum, tortor in bibendum convallis, libero mi sagittis nisl, pharetra aliquam dui augue ac arcu. "
+}
